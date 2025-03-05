@@ -1,0 +1,18 @@
+{
+  "name": "geodemapdemo",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@dcloudio/uni-app": "^2.0.2-4040520250103001",
+    "@dcloudio/uni-h5": "^2.0.2-4040520250103001",
+    "@dcloudio/webpack-uni-mp-loader": "^2.0.2-4040520250103001",
+    "@vue/runtime-dom": "^3.5.13"
+  }
+}
